@@ -227,9 +227,9 @@ timeline
 
 <div align="center">
 
-  <!-- Main GitHub Stats Card -->
+  <!-- Main GitHub Stats Card (Includes all-time commits across all repositories) -->
   <a href="https://github.com/ctrlaltvikas">
-    <img src="https://github-readme-stats.vercel.app/api?username=ctrlaltvikas&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="Vikas's GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ctrlaltvikas&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="Vikas's GitHub Stats" width="48%" />
   </a>
   <!-- Most Used Languages Card -->
   <a href="https://github.com/ctrlaltvikas">
@@ -238,9 +238,16 @@ timeline
 
   <br/><br/>
 
-  <!-- GitHub Contribution Streak -->
+  <!-- GitHub Contribution Streak (Timezone aligned) -->
   <a href="https://github.com/ctrlaltvikas">
-    <img src="https://streak-stats.demolab.com?user=ctrlaltvikas&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff9b5e&currStreakLabel=58a6ff" alt="GitHub Streak" width="97%" />
+    <img src="https://streak-stats.demolab.com?user=ctrlaltvikas&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff9b5e&currStreakLabel=58a6ff&timezone=Asia/Kolkata" alt="GitHub Streak" width="97%" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Cross-Repository Contribution Activity Graph -->
+  <a href="https://github.com/ctrlaltvikas">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ctrlaltvikas&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff" alt="Cross-Repository Activity Graph" width="97%" />
   </a>
 
 </div>
